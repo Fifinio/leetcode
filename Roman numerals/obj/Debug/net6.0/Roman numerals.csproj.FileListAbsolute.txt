@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\bin\Debug\net6.0\Roman numerals.exe
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\bin\Debug\net6.0\Roman numerals.deps.json
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\bin\Debug\net6.0\Roman numerals.runtimeconfig.json
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\bin\Debug\net6.0\Roman numerals.dll
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\bin\Debug\net6.0\Roman numerals.pdb
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.dll
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\refint\Roman numerals.dll
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.pdb
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\Roman numerals.genruntimeconfig.cache
+C:\Users\PC\Documents\Projects\leetcode\Roman numerals\obj\Debug\net6.0\ref\Roman numerals.dll
